@@ -2,3 +2,4 @@ streamlit
 pillow
 agno
 ollama
+openai
